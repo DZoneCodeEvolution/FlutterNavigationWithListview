@@ -1,7 +1,11 @@
-# myfirstapp
+# Listview Tutorial
 
-A new Flutter project.
-
+Flutter Navigation With Listview 
+   #Detail
+    -Using http: ^0.12.2 library for fetching json Data
+    -json :- https://jsonplaceholder.typicode.com/photos
+    
+Enjoy your Day With Flutter    
 ## Getting Started
 
 This project is a starting point for a Flutter application.

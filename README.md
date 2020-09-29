@@ -1,10 +1,11 @@
 # Listview Tutorial
 
 Flutter Navigation With Listview 
-   #Detail
-    -Using http: ^0.12.2 library for fetching json Data
-    -json :- https://jsonplaceholder.typicode.com/photos
-    
+   <p>#Detail</p>
+   <ul>
+    <li>-Using <b>http: ^0.12.2 </b> library for fetching json Data</li>
+    <li>-json :- https://jsonplaceholder.typicode.com/photos</li>
+   </ul>
 Enjoy your Day With Flutter    
 ## Getting Started
 
